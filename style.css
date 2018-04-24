@@ -89,3 +89,20 @@ li a:hover{
 .dropdown:hover .dropdown-content {
     display: block;
 }
+.c{
+    width:350px;
+    height: 200px;
+    margin:0;
+}
+
+.b{
+    width:100px;
+    height:90px;
+}
+.a{
+    display:inline-block;
+    padding: 20px 20px;
+    background-color: aquamarine; 
+    width: 400px;
+    margin:50px;
+}
